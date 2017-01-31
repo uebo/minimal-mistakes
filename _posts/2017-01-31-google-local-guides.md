@@ -6,7 +6,7 @@ Googleが提供しているローカルの口コミサービス、ローカル�
 
 [ローカルガイド](https://www.google.com/intl/ja/local/guides/)
 
-{% include figure image_path="/assets/images/caption/google-local-guide-cap.png" alt="Google local guides" caption="引用: Googleローカルガイド" %}
+{% include figure image_path="/assets/images/caption/google-local-guide-cap.jpg" alt="Google local guides" caption="引用: Googleローカルガイド" %}
 
 以前からスポットの口コミや評価はGoogle Map上で入力することができましたが、2015年ごろから独立したサービスとして、投稿者の特典やランク付けなどができるようになったようです。今更ながら少し利用してみました。
 
